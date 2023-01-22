@@ -15,7 +15,7 @@
 <br />
 
 <h1 align="center">
-<img alt="Video gif " title="gif" src="./img/videoart.gif" />
+<img alt="Video gif " title="gif" src="./img/exacttime.gif" />
 </h1>
 
 
